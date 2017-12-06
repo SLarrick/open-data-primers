@@ -11,7 +11,7 @@ You're reading an [online handbook](https://mozillascience.github.io/open-data-p
 **Here's what's in the book:**
 * In the first section, we'll define open data and discuss it's value, successes and challenges.
 * In Section 2, we'll walk through what's needed to make your data open and usable by others.
-* In Section 3, we'll talk about where and how to share your data, of if you even should.
+* In Section 3, we'll talk about where and how to share your data, or if you even should.
 * In Section 4, we'll provide tips on how to find data that has been made available by others.
 * Finally, in Section 5, we'll discuss what you need to know and do to reuse other people's data.
 
